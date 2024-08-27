@@ -1,0 +1,19 @@
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 21 Aug 2024 07:10:03 GMT
+Content-Type: application/json; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Host-Header: WordPress.com
+X-hacker: Oh, Awesome: I/Opossum
+X-Robots-Tag: noindex
+Link: <https://public-api.wordpress.com/>; rel="https://api.w.org/"
+X-Content-Type-Options: nosniff
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+X-ac: 2.mia _dca BYPASS
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: h3=":443"; ma=86400
+
+{"code":"rest_no_route","message":"No route was found matching the URL and request method.","data":{"status":404}}
